@@ -31,7 +31,7 @@ namespace WpfApp2
         {
             A_game = new Game();
             A_game.startGame();
-            MessageBoxShow(A_game.ToString());
+           
 
         }
         public static void MessageBoxShow(string a)            
